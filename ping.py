@@ -29,3 +29,4 @@ while True:
 		lg +=1
 	
 	time.sleep(1)
+''' とりあえずCtrl+cで終了させといて～ '''
